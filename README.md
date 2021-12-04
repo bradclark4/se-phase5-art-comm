@@ -1,2 +1,2 @@
 # se-phase5-art-comm
-Proof on concept for a basic Java app for CS 3354.
+Proof of concept for a basic Java web app for CS 3354. Currently has no web functionality. 
